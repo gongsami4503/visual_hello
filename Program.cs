@@ -9,7 +9,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Heello World");
+            Console.WriteLine("Hello World");
+            Console.WriteLine("World is mine");
         }
     }
 }
